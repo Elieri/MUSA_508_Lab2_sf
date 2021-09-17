@@ -1,0 +1,11 @@
+# B04004_058 - Estimate!!Total:!!Northern European (single ancestry)
+# B04004_065 - Estimate!!Total:!!Scandinavian
+# B04004_089 - Estimate!!Total:!!Swedish
+# B04005_058 - Estimate!!Total:!!Northern European (multiple ancestry)
+# B04005_065 - Estimate!!Total:!!Scandinavian (multiple ancestry)
+# B04005_089 - Estimate!!Total:!!Swedish (multiple ancestry)
+# B05001_006 - Estimate!!Total:!!Not a U.S. citizen
+# B05002_003 - Estimate!!Total:!!Native:!!Born in state of residence
+# B05002_013 - Estimate!!Total:!!Foreign born:
+# B05002_014 - Estimate!!Total:!!Foreign born:!!Naturalized U.S. citizen
+# B05002_021 - Estimate!!Total:!!Foreign born:!!Not a U.S. citizen
